@@ -5,7 +5,7 @@
   <BR>
 박기수: https://trapezoidal-yacht-933.notion.site/HTTP-a92305f71c464a1fb960f134139309af<BR>
 구두성: https://www.notion.so/3eeee6231dab4cab86e91a31ec57484d?v=fae14cc149ff405fbcbcd0c6484cb28d<BR>
-윤혜림:<BR>
+윤혜림: https://buttoned-link-7bb.notion.site/HTTP-3c2c41a440e24ce0ba5f1b050265274e<BR>
 강현준: https://github.com/conbrio-sw/TIL/tree/main/Http<BR>
 
 <h2>3월</h2>
