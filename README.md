@@ -13,4 +13,4 @@
 박기수: <BR>
 구두성: <BR>
 윤혜림:<BR>
-강현준: <BR>
+강현준: https://github.com/conbrio-sw/TIL/tree/main/study/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC
