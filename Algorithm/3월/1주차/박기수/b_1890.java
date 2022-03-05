@@ -28,7 +28,7 @@ public class b_1890 {
 	}
 	
 
-	
+	 
 	static void input() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		N = Integer.parseInt(br.readLine());
