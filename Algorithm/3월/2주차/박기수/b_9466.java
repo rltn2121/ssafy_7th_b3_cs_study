@@ -49,7 +49,7 @@ public class b_9466 {
 			ans--;
 			return;
 		}
-		
+		 
         // 4. 내가 선택한 사람을 기준으로 탐색 시작
 		dfs(next[now]);
 		
