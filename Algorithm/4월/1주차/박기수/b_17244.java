@@ -3,7 +3,7 @@ package ps_java;
 
 import java.io.*;
 import java.util.*;
-
+ 
 public class b_17244 {
 	static Queue<Node> q = new ArrayDeque<>();
 	static List<Node> list = new ArrayList<>();
