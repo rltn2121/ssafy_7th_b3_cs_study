@@ -10,7 +10,7 @@ public class b_16954 {
 	public static void main(String[] args) throws Exception{
 		input();
 		System.out.println(bfs());
-	}
+	} 
 	
 	// 계속 제자리에 있어야 하는 경우가 있는데
 	// visited를 써버리면 제자리에 있지 못함
